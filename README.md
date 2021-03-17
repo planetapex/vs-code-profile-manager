@@ -30,6 +30,7 @@ Some users asked if the extensions can be enable/disbaled for a specific project
 
 > https://github.com/alefragnani/vscode-project-manager/issues/281
 > https://github.com/microsoft/vscode/issues/81950
+> https://github.com/Microsoft/vscode/issues/40109
 
 > Throughtout the documentation I refer to the **"VS Code Original Shortcut"** as the one which comes with installation when VS code is installed.
 
