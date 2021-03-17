@@ -213,7 +213,7 @@ Just double click the Shortcut and you are good to go.
 
 * M. Yasir Ali Shah[@planetapex](https://github.com/planetapex) - Idea & Initial work
 
-### 9.1. ✍️ Social Links
+### 9.1. ✍️ Social Links 
 
 * [My Personal Blog](https://apexfusion.blogspot.com/)
 * [Oracle APEX Plugins](https://apex.oracle.com/pls/apex/f?p=83009:1::::::)
